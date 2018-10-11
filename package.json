@@ -1,0 +1,20 @@
+{
+  "name": "front-camp-git-practice",
+  "version": "1.0.0",
+  "description": "### – You should clone the repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etrn/front-camp-git-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etrn/front-camp-git-practice/issues"
+  },
+  "homepage": "https://github.com/etrn/front-camp-git-practice#readme"
+}
