@@ -1,2 +1,4 @@
 commit 2
 new_branch
+commit 4
+branch new_branch
