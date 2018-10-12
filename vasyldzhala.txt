@@ -1,3 +1,5 @@
 commit 2
 new_branch
 master changes
+commit 4
+branch new_branczch
